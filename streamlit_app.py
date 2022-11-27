@@ -1,7 +1,7 @@
 import streamlit
 streamlit.title("My Home")
 streamlit.header("Breakfast Menu")
-streamlit.text("🥗 Oatmeal")
+streamlit.text('🥗 Oatmeal')
 streamlit.text("egg") 
 streamlit.text("dosa")
 streamlit.text('Omega 3 & Blueberry Oatmeal')
